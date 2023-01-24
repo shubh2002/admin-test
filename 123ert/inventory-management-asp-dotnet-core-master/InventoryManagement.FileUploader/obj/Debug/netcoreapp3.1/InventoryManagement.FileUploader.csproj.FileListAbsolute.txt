@@ -1,0 +1,20 @@
+D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\bin\Debug\netcoreapp3.1\InventoryManagement.FileUploader.deps.json
+D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\bin\Debug\netcoreapp3.1\InventoryManagement.FileUploader.dll
+D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\bin\Debug\netcoreapp3.1\InventoryManagement.FileUploader.pdb
+D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Debug\netcoreapp3.1\InventoryManagement.FileUploader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Debug\netcoreapp3.1\InventoryManagement.FileUploader.AssemblyInfoInputs.cache
+D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Debug\netcoreapp3.1\InventoryManagement.FileUploader.AssemblyInfo.cs
+D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Debug\netcoreapp3.1\InventoryManagement.FileUploader.csproj.CoreCompileInputs.cache
+D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Debug\netcoreapp3.1\InventoryManagement.FileUploader.dll
+D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Debug\netcoreapp3.1\InventoryManagement.FileUploader.pdb
+D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Debug\netcoreapp3.1\InventoryManagement.FileUploader.csproj.AssemblyReference.cache
+C:\Users\cuty computer\Desktop\123ert\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\bin\Debug\netcoreapp3.1\InventoryManagement.FileUploader.deps.json
+C:\Users\cuty computer\Desktop\123ert\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\bin\Debug\netcoreapp3.1\InventoryManagement.FileUploader.dll
+C:\Users\cuty computer\Desktop\123ert\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\bin\Debug\netcoreapp3.1\InventoryManagement.FileUploader.pdb
+C:\Users\cuty computer\Desktop\123ert\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Debug\netcoreapp3.1\InventoryManagement.FileUploader.csproj.AssemblyReference.cache
+C:\Users\cuty computer\Desktop\123ert\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Debug\netcoreapp3.1\InventoryManagement.FileUploader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuty computer\Desktop\123ert\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Debug\netcoreapp3.1\InventoryManagement.FileUploader.AssemblyInfoInputs.cache
+C:\Users\cuty computer\Desktop\123ert\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Debug\netcoreapp3.1\InventoryManagement.FileUploader.AssemblyInfo.cs
+C:\Users\cuty computer\Desktop\123ert\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Debug\netcoreapp3.1\InventoryManagement.FileUploader.csproj.CoreCompileInputs.cache
+C:\Users\cuty computer\Desktop\123ert\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Debug\netcoreapp3.1\InventoryManagement.FileUploader.dll
+C:\Users\cuty computer\Desktop\123ert\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Debug\netcoreapp3.1\InventoryManagement.FileUploader.pdb

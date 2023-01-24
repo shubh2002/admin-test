@@ -1,0 +1,145 @@
+﻿@model IEnumerable<InventoryManagement.Models.CouponMaster>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Dashboard</h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Coupon</a></li>
+                    <li class="breadcrumb-item active">Index</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                     <a class="btn btn-primary" style="float:left" asp-controller="Coupon" asp-action="Create">Add New</a>
+                    </div>
+                    <div class="card-body">
+                        <div class="table-responsive">
+
+                            <table class="table table-hover table-bordered">
+                                <thead>
+                                    <tr class="text-center">
+
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.ShortDescription)
+                                        </th>
+
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.Code)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.Discount)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.FlatDiscount)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.MaxDiscount)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.StartDate)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.EndDate)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.ApplicableCount)
+                                        </th>
+
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.MinimumCartAmount)
+                                        </th>
+
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.Priority)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.Pin)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.IsActive)
+                                        </th>
+                                        <th>
+
+                                        </th>
+
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr class="text-center">
+
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.ShortDescription)
+                                            </td>
+
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.Code)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.Discount)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.FlatDiscount)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.MaxDiscount)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.StartDate)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.EndDate)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.ApplicableCount)
+                                            </td>
+
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.MinimumCartAmount)
+                                            </td>
+
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.Priority)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.Pin)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.IsActive)
+                                            </td>
+                                            <td>
+                                                <a class="btn btn-success fa fa-edit btn-sm" asp-action="Edit" asp-route-id="@item.Id"></a>
+                                                <a class="btn btn-secondary fa fa-bookmark btn-sm" asp-action="Details" asp-route-id="@item.Id"></a>
+                                                <a class="btn btn-danger fa fa-trash-alt btn-sm" asp-action="Delete" asp-route-id="@item.Id"></a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

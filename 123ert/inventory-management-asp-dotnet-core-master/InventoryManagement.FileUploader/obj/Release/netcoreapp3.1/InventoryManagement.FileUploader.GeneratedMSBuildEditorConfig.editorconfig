@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = InventoryManagement.FileUploader
+build_property.ProjectDir = D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\

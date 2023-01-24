@@ -1,0 +1,10 @@
+D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\bin\Release\netcoreapp3.1\InventoryManagement.FileUploader.deps.json
+D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\bin\Release\netcoreapp3.1\InventoryManagement.FileUploader.dll
+D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\bin\Release\netcoreapp3.1\InventoryManagement.FileUploader.pdb
+D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Release\netcoreapp3.1\InventoryManagement.FileUploader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Release\netcoreapp3.1\InventoryManagement.FileUploader.AssemblyInfoInputs.cache
+D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Release\netcoreapp3.1\InventoryManagement.FileUploader.AssemblyInfo.cs
+D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Release\netcoreapp3.1\InventoryManagement.FileUploader.csproj.CoreCompileInputs.cache
+D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Release\netcoreapp3.1\InventoryManagement.FileUploader.dll
+D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Release\netcoreapp3.1\InventoryManagement.FileUploader.pdb
+D:\Project\inventory-management-asp-dotnet-core-master\InventoryManagement.FileUploader\obj\Release\netcoreapp3.1\InventoryManagement.FileUploader.csproj.AssemblyReference.cache
